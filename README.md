@@ -15,8 +15,8 @@
       <td>Bayesian Statistics, Nonparametric Statistics, Statistical Modeling, Machine Learning</td>
     </tr>
     <tr>
-      <td align="center"><b>Languages</b></td>
-      <td>R, Python</td>
+      <td align="center"><b>Languages & Tools:</b></td>
+      <td>R, Python, SQL</td>
     </tr>
   </table>
 </div>
