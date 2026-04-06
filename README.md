@@ -8,7 +8,7 @@
     </tr>
         <tr>
       <td align="center"><b>Thesis</b></td>
-      <td>Machine Learning Prediction of Lower-Body Soft-Tissue Injuries in College Athletes from Catapult and Force Plate Data</td>
+      <td>Classification of Lower-Body Soft-Tissue Injuries from Catapult and ForceDecks Data</td>
     </tr>
     <tr>
       <td align="center"><b>Skills</b></td>
