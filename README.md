@@ -12,7 +12,7 @@
     </tr>
     <tr>
       <td align="center"><b>Skills</b></td>
-      <td>Bayesian Statistics, Nonparametric Statistics, Statistical Modeling, Machine Learning</td>
+      <td>Machine Learning, Predictive Modeling, Bayesian Statistics, Nonparametric Statistics</td>
     </tr>
     <tr>
       <td align="center"><b>Languages</b></td>
