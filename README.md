@@ -8,7 +8,7 @@
     </tr>
         <tr>
       <td align="center"><b>Thesis</b></td>
-      <td>Prediction of Lower-Body Soft-Tissue Injuries from Catapult and ForceDecks Data</td>
+      <td> </td>
     </tr>
     <tr>
       <td align="center"><b>Skills</b></td>
