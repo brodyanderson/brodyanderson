@@ -6,10 +6,6 @@
       <td align="center"><b>Experience</b></td>
       <td>Data Science & Analytics Intern, Statistics Teaching Assistant</td>
     </tr>
-        <tr>
-      <td align="center"><b>Thesis</b></td>
-      <td> </td>
-    </tr>
     <tr>
       <td align="center"><b>Skills</b></td>
       <td>Machine Learning, Predictive Modeling, Bayesian Statistics, Nonparametric Statistics</td>
