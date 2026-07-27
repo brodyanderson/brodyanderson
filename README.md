@@ -4,11 +4,11 @@
   <table>
         <tr>
       <td align="center"><b>Experience</b></td>
-      <td>Data Science & Analytics Intern, Statistics Teaching Assistant</td>
+      <td> </td>
     </tr>
     <tr>
       <td align="center"><b>Skills</b></td>
-      <td>Machine Learning, Predictive Modeling, Bayesian Statistics, Nonparametric Statistics</td>
+      <td> </td>
     </tr>
     </tr>
   </table>
